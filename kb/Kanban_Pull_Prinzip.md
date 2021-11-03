@@ -5,7 +5,7 @@ author: LindaStu
 anrechnung: a
 ---
 
-Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Prinzip des agilen Projektmanagements um flexibel und kundenorientiert arbeiten zu können. Kurzbeschreibung zu Kanban_Pull_Prinzip um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Prinzip des agilen Projektmanagements um flexibel und kundenorientiert arbeiten zu können. 
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
@@ -37,9 +37,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
 
-# Wie genau funktioniert das Pull-Prinzip? Aspekt 1
+# Wie genau funktioniert das Pull-Prinzip? 
 
-Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. Aspekte zu Themen können ganz unterschiedlich sein:
+Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
 
 * Verschiedene Teile eines Themas 
 * Historische Entwicklung
@@ -47,20 +47,20 @@ Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orie
 * 
 ![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
 
-![Bild1](ManagingProjectsSuccessfully.github.io/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
-
 *Systematik des Pull-Prinzips*
 
 ![Beispielabbildung](Kanban_Pull_Prinzip/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
+# Vorteile des Pull-Prinzips
 
-* das
-* hier 
-* ist
-* eine 
+* Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
+* Flexibilität: Transport geschiet auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
+* Kostensparend: durch keine unnötigen Zwischen- und Endlagerungen entfallen Lagerkosten
+* Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
+* Positive Kundenbindung: Änderungsünsche des Kunden können einfacher integriert werden
+
 * Punkteliste
   - mit unterpunkt
 
