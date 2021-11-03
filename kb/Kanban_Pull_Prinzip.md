@@ -2,10 +2,10 @@
 title: Kanban_Pull_Prinzip
 tags: agil klassisch
 author: LindaStu
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Kanban_Pull_Prinzip um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Kanban Pull Prinzip ist ein kundenorientiertes Prinzip des agilen Projektmanagements. Durch das Pull-Prinzip, auch ziehende Fertigung genannt, können Unternehmen flexibler und kundenorientierter arbeiten.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
