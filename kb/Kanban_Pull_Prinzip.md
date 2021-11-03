@@ -47,6 +47,8 @@ Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orie
 * 
 ![Systematik des Pull-Prinzips](Kanban_Pull_Prinzip/Pull-Prinzip.png)
 
+![Bild1](ManagingProjectsSuccessfully.github.io/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
+
 *Systematik des Pull-Prinzips*
 
 ![Beispielabbildung](Kanban_Pull_Prinzip/test-file.jpg)
