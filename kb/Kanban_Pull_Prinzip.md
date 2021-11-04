@@ -11,9 +11,7 @@ Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverf
 
 Kanban [Link zur Kanbanseite](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht.
 
----
-
-# Wie genau funktioniert das Pull-Prinzip? 
+## Wie genau funktioniert das Pull-Prinzip? 
 
 Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
 Alle Akteure der Lieferkette müssen sich genau abstimmen, um eine schnelle Lieferung gewährleisten zu können. Dies erfordert eine enge Zusammenarbeit mit Lieferanten und externen Partnern. 
@@ -23,7 +21,7 @@ Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse verherge
 
 *Systematik des Pull-Prinzips*
 
-# Vorteile des Pull-Prinzips
+## Vorteile des Pull-Prinzips
 
 * Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
 * Flexibilität: Transport geschieht auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
@@ -31,11 +29,11 @@ Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse verherge
 * Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
 * Positive Kundenbindung: Änderungswünsche des Kunden können einfacher integriert werden
 
-# Nachteile des Pull-Prinzips 
+## Nachteile des Pull-Prinzips 
 
 * Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten
 
-# Wichtigkeit um Pull-Prinzip erfolgreich anwenden zu können
+## Wichtigkeit, um Pull-Prinzip erfolgreich anwenden zu können
 
 Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken.
 
