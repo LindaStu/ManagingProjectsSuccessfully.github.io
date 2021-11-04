@@ -5,15 +5,41 @@ author: LindaStu
 anrechnung: a
 ---
 
-Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverfahren des agilen Projektmanagements um flexibel und kundenorientiert arbeiten zu können. 
+Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverfahren des agilen Projektmanagements, um flexibel und kundenorientiert arbeiten zu können. 
 
 # Kanban Pull-Prinzip 
 
+Kanban [Link zur Kanbanseite](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht.
 
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Kanban_Pull_Prinzip.md)
+# Wie genau funktioniert das Pull-Prinzip? 
 
-Kanban [siehe hier](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Mothedo des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht.
+Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
+Alle Akteure der Lieferkette müssen sich genau abstimmen, um eine schnelle Lieferung gewährleisten zu können. Dies erfordert eine enge Zusammenarbeit mit Lieferanten und externen Partnern. 
+Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse verhergehende aus. 
+
+![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
+
+*Systematik des Pull-Prinzips*
+
+# Vorteile des Pull-Prinzips
+
+* Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
+* Flexibilität: Transport geschieht auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
+* Kostensparend: durch keine unnötigen Zwischen- und Endlagerungen entfallen Lagerkosten
+* Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
+* Positive Kundenbindung: Änderungswünsche des Kunden können einfacher integriert werden
+
+# Nachteile des Pull-Prinzips 
+
+* Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten
+
+# Wichtigkeit um Pull-Prinzip erfolgreich anwenden zu können
+
+Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken.
+
+
+
+
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
@@ -41,26 +67,9 @@ die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler ü
 [Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
 Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
 
-
-# Wie genau funktioniert das Pull-Prinzip? 
-
-Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
-
-![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
-
-*Systematik des Pull-Prinzips*
-
 ![Beispielabbildung](Kanban_Pull_Prinzip/test-file.jpg)
 
 *lustiges Testbild*
-
-# Vorteile des Pull-Prinzips
-
-* Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
-* Flexibilität: Transport geschiet auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
-* Kostensparend: durch keine unnötigen Zwischen- und Endlagerungen entfallen Lagerkosten
-* Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
-* Positive Kundenbindung: Änderungsünsche des Kunden können einfacher integriert werden
 
 * Punkteliste
   - mit unterpunkt
