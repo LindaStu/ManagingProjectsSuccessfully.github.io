@@ -11,6 +11,8 @@ Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverf
 
 Kanban [Link zur Kanbanseite](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht.
 
+---
+
 # Wie genau funktioniert das Pull-Prinzip? 
 
 Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
