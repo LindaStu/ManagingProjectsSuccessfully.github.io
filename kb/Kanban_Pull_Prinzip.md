@@ -7,6 +7,10 @@ anrechnung: a
 
 Das Kanban Pull-Prinzip, auch genannt ziehende Fertigung, ist ein Steuerungsverfahren des agilen Projektmanagements, um flexibel und kundenorientiert arbeiten zu können. 
 
+Ein wesentliches Merkmal beim Pull-Prinzip ist, dass die Entscheidungen über die Produktionsmengen und Materialflüsse in jedem Knotenpunkt, wie z.B. bei der Produktionsstufe oder im Lager dezentral erfolgen.
+
+Das Pull-Prinzip wird nicht nur bei der Abstimmung mit Endverbrauchern angewendet. Auch im Supply Chain Management, sprich der Logistik eines Unternehmens und in der Wertschöpfungskette des Unternehmens und seiner Lieferanten, leistet es gute Dienste.
+
 # Kanban Pull-Prinzip 
 
 [Kanban](https://managingprojectssuccessfully.github.io/kb/Kanban.html) ist eine Methode des agilen Projektmanagements für Bestandsführung und Produktionssteuerung, welche auf dem Pull-Prinzip beruht. Das System Kanban steuert den Materialfluss und die Produktion nach dem Pull-Prinzip. 
@@ -17,8 +21,14 @@ Bei Kanban orientiert sich die Materialbereitstellung damit ausschließlich am V
 
 Beim Pull-Prinzip drückt der Hersteller keine Waren auf den Markt, sondern orientiert sich am Kunden und beginnt mit der Herstellung erst, wenn der Kunde ein Signal gibt. Ein Signal des Kunden kann z.B. eine Bestellung oder ein Auftrag sein. 
 
+Wenn der Kunde das Signal gibt, arbeiten alle Akteure der Lieferkette hin zu dem Auftrag des Kunden. Durch den Kaufwunsch des Kunden wird dem Lieferanten ein Signal erteilt das Produkt dem Kunden auszuliefern. Der Lieferant fordert den nötigen Nachschub an Produkten für seine Auslieferung an. In der Fertigung wird ein Signal an das Lager mit dem Bedarf an Materialien gesendet, um das Material verarbeiten zu können. Im Lager geht dann, je nach Bedarf, ein Signal zur Nachbestellung von Material raus.
+
+Durch das Pull-Prinzip wird, wie der Name schon darstellt, das Beschaffungsmanagement von vorne nach hinten mit rechtzeitigen Signalen durchgeführt. 
+
+Eine just-in-time Lieferung ist deshalb sehr wichtig, damit die Produktionsdauer so kurz wie möglich gehalten werden kann. 
+
 Alle Akteure der Lieferkette müssen sich genau abstimmen, um eine schnelle Lieferung gewährleisten zu können. Dies erfordert eine enge Zusammenarbeit mit Lieferanten und externen Partnern. 
-Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse verhergehende aus. 
+Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse vorhergehende aus. 
 
 
 ![Systematik des Pull-Prinzips](https://raw.githubusercontent.com/LindaStu/ManagingProjectsSuccessfully.github.io/main/kb/Kanban_Pull_Prinzip/Pull-Prinzip.png)
