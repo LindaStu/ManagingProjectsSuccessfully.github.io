@@ -5,85 +5,45 @@ author: LindaStu
 anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektkommunikation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
-
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+Die Projektkommunikation ist zum einen der strukturierte Informationsaustausch innerhalb einer Projektorganisation, aber auch die projektbezogene Kommunikation zwischen Projektteam und Stakeholdern. [^1]
 
 
-# Aspekt 1
+# Projektkommunikation
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+Um Projekte erfolgreich abschließen zu können, ist die Kommunikation sehr wichtig.
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+Wie schon der US-Amerikanische Wissenschaftler Charles Franklin Kettering gesagt hat: "Ein klar formuliertes Problem ist schon halb gelöst."
+
+Zum einen ist ein strukturierter Informationsaustausch innerhalb einer Projektorganisation sehr wichtig, zum anderen aber auch die Projektbezogene Kommunikation zwischen dem Projektteam und zu den Stakeholdern. [^2]
+
+Für eine qualifizierte Projektkommunikation ist sicherzustellen, dass alle Zielgruppen die für sie relevanten Informationen zur richtigen Zeit in der richtigen Form erhalten. 
+
+Die Projektkommunikation ist dann effektiv, wenn die Informationsübermittlung die beabsichtigte Wirkung erzielt. [^1]
 
 ![Hauptfaktoren für eine gute Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/patch-2/kb/Projektkommunikation/K12_Schaubild_Projektkommunikation-1024x512.jpg)
 
-*Hauptfaktoren für eine gute Projektkommunikation*
+*Hauptfaktoren für eine gute Projektkommunikation* [^3]
 
-# Aspekt 2
+## Projektkommunikation innerhalb einer Projektorganisation
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Innerhalb einer Projektorganisation ist Kommunikation besonders wichtig. Sie kann z.B. zwischen dem Projektteam, der Projektleitung oder dem Auftraggeber stattfinden.
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+Bei regelmäßigem Austausch können Mitarbeiter und Mitarbeiterinnen besser für Projekte begeistert werden. [^2]
 
-So kann man eine Tabelle erstellen:
+## Projektkommunikation zu den Stakeholdern
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Bei der Kommunikation mit Stakeholdern ist zu beachten, nicht nur Informationen weiterzugeben, sondern in regelmäßigem Austausch mit den jeweiligen Stakeholdern zu stehen. 
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Wichtig dabei können z.B. Informationen sein über den Anlass, die Ziele, die Hintergründe des Projekts oder einfach den Stand der Dinge. 
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+Durch die regelmäßige Kommunikation können so Ängste oder Widerstände abgebaut werden. [^2]
 
-### Ebene-3-Überschrift
+## Positive Aspekte einer guten Projektkommunikation
 
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
+* Sicherung der Akzeptanz und Motivation bei Stakeholdern - durch Einbindung und dem Verständnis der Zusammenhänge
+* Abbau von Ängsten und Befürchtungen und daraus entstehenden Widerständen und Konflikten
+* Erschaffung von Transparenz, Offenheit und der Erhaltung von Vertrauen
+* Aufmerksamkeit und Anerkennung für das Projekt und deren Beteiligte - durch Vermarktung des Projekts gegenüber dem Management und Mitarbeitern [^4]
 
 
 # Siehe auch
@@ -97,8 +57,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: [Wikipedia, Projektkommunikation](https://de.wikipedia.org/wiki/Projektkommunikation)
+[^2]: [Businesswissen, Aufgaben und Ziele der Projektkommunikation](https://www.business-wissen.de/hb/aufgaben-und-ziele-der-projektkommunikation/)
+[^3]: [Moderne Unternehmenskommunikation, Projektkommunikation - häufig übersehen, und doch so wertvoll](https://www.moderne-unternehmenskommunikation.de/uncategorized/projektkommunikation-haeufig-uebersehen-und-doch-so-wertvoll/)
+[^4]: [Kommunikationsmanagement in Projekten – 5 Tipps für die erfolgreiche Projektkommunikation](https://www.gotscharek-company.com/blog-1/153-kommunikationsmanagement-in-projekten-5-tipps-fuer-die-erfolgreiche-projektkommunikation)
