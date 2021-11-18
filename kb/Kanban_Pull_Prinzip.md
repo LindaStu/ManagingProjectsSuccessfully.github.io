@@ -54,8 +54,8 @@ Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bed
 
 # Quellen
 
-[^1]:[manufactus, Kanban System und Pull Steuerung – Definition und Prinzip]( https://www.kanban-system.com/de/kanban-system-was-ist-das/)
-[^2]: [Logistikkompendium Technische Universität München, Pull Prinzip] (https://wiki.tum.de/display/logistikkompendium/Pull-Prinzip)
+[^1]: [manufactus, Kanban System und Pull Steuerung – Definition und Prinzip]( https://www.kanban-system.com/de/kanban-system-was-ist-das/)
+[^2]: [Logistikkompendium Technische Universität München, Pull Prinzip](https://wiki.tum.de/display/logistikkompendium/Pull-Prinzip)
 [^3]: [Businesswissen, Wie das Pull-Prinzip funktioniert](https://www.business-wissen.de/artikel/prozessplanung-wie-das-pull-prinzip-funktioniert/)
 [^4]: [Unternehmensberatung Axel Schröder, Kanban und Beschaffungsmanagement](https://axel-schroeder.de/kanban-und-beschaffungsmanagement/)
 
