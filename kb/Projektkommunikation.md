@@ -2,7 +2,7 @@
 title: Projektkommunikation
 tags: agil klassisch
 author: LindaStu
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Projektkommunikation um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -45,9 +45,9 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Projektkommunikation/test-file.jpg)
+![Hauptfaktoren für eine gute Projektkommunikation](https://github.com/LindaStu/ManagingProjectsSuccessfully.github.io/blob/patch-2/kb/Projektkommunikation/K12_Schaubild_Projektkommunikation-1024x512.jpg)
 
-*lustiges Testbild*
+*Hauptfaktoren für eine gute Projektkommunikation*
 
 # Aspekt 2
 
