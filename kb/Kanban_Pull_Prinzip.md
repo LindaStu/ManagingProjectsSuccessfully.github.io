@@ -36,21 +36,34 @@ Wie Sie hier in der Grafik sehen können, lösen nachgelagerte Prozesse vorherge
 
 *Systematik des Pull-Prinzips*
 
-## Vorteile des Pull-Prinzips [^3]
+## Vorteile des Pull-Prinzips
 
 * Kundenorientierung: die Produkte können genau auf die Vorstellungen des Kunden angepasst werden
 * Flexibilität: Transport geschieht auf Abruf, so ist man bis zum Bestellzeitpunkt sehr flexibel
 * Kostensparend: durch keine unnötigen Zwischen- und Endlagerungen entfallen Lagerkosten
 * Problemorientiert: dank großem Informationsaustausch können Probleme schneller erkannt werden
-* Positive Kundenbindung: Änderungswünsche des Kunden können einfacher integriert werden
+* Positive Kundenbindung: Änderungswünsche des Kunden können einfacher integriert werden [^3]
 
-## Nachteile des Pull-Prinzips [^3]
+## Nachteile des Pull-Prinzips 
 
-* Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten
+* Abhängigkeit: Lieferschwierigkeiten oder Ausfälle stoppen die Produktion sofort und der Kunde muss warten [^3]
 
-## Wichtigkeit, um Pull-Prinzip erfolgreich anwenden zu können [^3]
+## Wichtigkeit, um Pull-Prinzip erfolgreich anwenden zu können
 
-Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken.
+Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bedarf es eine richtige Strategie für das Liefermanagement. Zudem sind verlässliche Partner oder auch mehrere Lieferanten sehr wichtig, um so die Risiken von Produktionsstopps und Verzögerungen zu senken. [^3]
+
+# Siehe auch
+
+* [Kanban](Kanban.md)
+* [Kanban Boards](Kanban_Boards.md)
+* [Kanban Karten](Kanban_Karten.md)
+* [Kanban Swim Lanes](Kanban_Swim_Lanes.md)
+* [Kanban Work in Progress](Kanban_Work_in_Progress.md)
+
+# Weiterführende Literatur
+
+* [Vorteile des Pull-Prinzips (englisch)(https://www.planview.com/resources/articles/benefits-pull-system/)
+* [Online Kanban Software Buyer's Guide E-Book](https://info.planview.com/buyers-guide-enterprise-kanban-software-_ebook_lad_en_reg.html)
 
 # Quellen
 
