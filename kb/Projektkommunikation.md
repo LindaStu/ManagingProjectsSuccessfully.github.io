@@ -47,7 +47,7 @@ Durch die regelmäßige Kommunikation können so Ängste oder Widerstände abgeb
 * Erschaffung von Transparenz, Offenheit und der Erhaltung von Vertrauen
 * Aufmerksamkeit und Anerkennung für das Projekt und deren Beteiligte - durch Vermarktung des Projekts gegenüber dem Management und Mitarbeitern [^5]
 
-# Tipps für eine erfolgreiche Projektkommunikation 
+## Tipps für eine erfolgreiche Projektkommunikation 
 
 ### Tipp 1: Kommunikation frühzeitig planen
 
