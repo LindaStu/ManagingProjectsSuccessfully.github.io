@@ -49,24 +49,24 @@ Durch die regelmäßige Kommunikation können so Ängste oder Widerstände abgeb
 
 # Tipps für eine erfolgreiche Projektkommunikation 
 
-## Tipp 1: Kommunikation frühzeitig planen
+### Tipp 1: Kommunikation frühzeitig planen
 
 Mit einer [Stakeholderanalyse](https://managingprojectssuccessfully.github.io/kb/Stakeholderanalyse.html) müssen zuerst alle relevanten Stakeholder identifiziert werden. So können frühzeitig die unterschiedlichen Vorstellungen und Ziele bezüglich eines Gelingens oder Scheiterns des Projekts erkannt werden. 
 
-## Tipp 2: Kommunikation von Botschaften zielgruppengerecht gestalten
+### Tipp 2: Kommunikation von Botschaften zielgruppengerecht gestalten
 
 Die Kommunikation muss zielgruppengerecht aufbereitet werden, da nicht jeder die gleichen Inhalte oder den gleichen Umfang an Informationen benötigt. 
 Mithilfe eines Kommunikationsplans kann einfach und genau festgelegt werden, wann welche Botschaften an welche Gruppen/Personen kommuniziert werden sollten.
 
-## Tipp 3: Verständlich kommunizieren
+### Tipp 3: Verständlich kommunizieren
 
 Da nicht alle Personen sich mit allen Themen auskennen, z.B. bei IT-Themen, ist es wichtig sachlich und nachvollziehbar zu kommunizieren. 
 
-## Tipp 4: Regelmäßig kommunizieren
+### Tipp 4: Regelmäßig kommunizieren
 
 Durch einen regelmäßigen, ehrlichen und zeitgerechten Austausch schafft man Offenheit und Transparenz.  
 
-## Tipp 5: Die richtigen Kommunikationskanäle wählen
+### Tipp 5: Die richtigen Kommunikationskanäle wählen
 
 Am besten ist es, Kanäle zu nutzen, welche bereits im Unternehmen verankert sind und auch die Kanäle, welche möglichst viele Stakeholder erreichen. [^5]
 
