@@ -62,7 +62,7 @@ Um das Kanban Pull-Prinzip erfolgreich im Unternehmen integrieren zu können bed
 
 # Weiterführende Literatur
 
-* [Vorteile des Pull-Prinzips (englisch)(https://www.planview.com/resources/articles/benefits-pull-system/)
+* [Vorteile des Pull-Prinzips (englisch)](https://www.planview.com/resources/articles/benefits-pull-system/)
 * [Online Kanban Software Buyer's Guide E-Book](https://info.planview.com/buyers-guide-enterprise-kanban-software-_ebook_lad_en_reg.html)
 
 # Quellen
